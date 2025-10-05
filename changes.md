@@ -82,5 +82,27 @@
 ### Why?
 - These changes ensure that invalid input is rejected with clear error messages and that exceptions are handled consistently across the API.
 
+## 2025-10-05: Repository Cleanup and Best Practices
+
+### Added .gitignore File
+- Created comprehensive `.gitignore` file with standard exclusions for:
+  - Maven build artifacts (`target/` directory)
+  - IDE files (`.idea/`, `*.iml`, `.vscode/`, etc.)
+  - OS-specific files (`.DS_Store`, `Thumbs.db`)
+  - Compiled class files, JAR files, and other build outputs
+  - Temporary files and logs
+
+### Removed Tracked Files
+- Removed `.idea/` directory from git tracking (IntelliJ IDEA configuration files)
+- Removed `target/` directory from git tracking (Maven build artifacts)
+- Removed `*.iml` files from git tracking (IntelliJ IDEA module files)
+- Removed empty `HealthController.java` file that served no purpose
+
+### Why?
+- Build artifacts should not be committed to version control as they can be regenerated
+- IDE configuration files are user-specific and should not be shared via git
+- Keeping the repository clean improves clone times and repository maintainability
+- Following industry best practices for Java/Maven/Spring Boot projects
+
 ---
 **If you need more details or want to document additional changes, update this file accordingly.**
