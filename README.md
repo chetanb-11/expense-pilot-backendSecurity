@@ -12,6 +12,10 @@ ExpensePilot is a Spring Boot-based backend application for managing personal ex
 - [Security](#security)
 - [Future Inspection](#future-inspection)
 
+**📋 Additional Documentation:**
+- [SECURITY.md](SECURITY.md) - Security recommendations and best practices
+- [changes.md](changes.md) - Detailed changelog of project modifications
+
 ---
 
 ## Features
@@ -99,6 +103,10 @@ resources/
 - Passwords are encrypted using `PasswordEncoder`
 - Authentication managed by Spring Security
 - Role-based access enforced in controllers
+- JWT-based token authentication
+- Global exception handling for security errors
+
+**Important:** See [SECURITY.md](SECURITY.md) for security recommendations and best practices before deploying to production.
 
 ## Future Inspection
 - Inspect `model/` for entity relationships and fields
