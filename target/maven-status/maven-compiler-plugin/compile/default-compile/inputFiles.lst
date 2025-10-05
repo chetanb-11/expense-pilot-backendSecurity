@@ -1,7 +1,26 @@
-D:\Vs_Code\Portfolio\java\Spring Boot\ExpensePilot\backend\src\main\java\com\project\expensepilot\controller\CustomErrorController.java
-D:\Vs_Code\Portfolio\java\Spring Boot\ExpensePilot\backend\src\main\java\com\project\expensepilot\controller\ExpenseController.java
-D:\Vs_Code\Portfolio\java\Spring Boot\ExpensePilot\backend\src\main\java\com\project\expensepilot\controller\RootController.java
-D:\Vs_Code\Portfolio\java\Spring Boot\ExpensePilot\backend\src\main\java\com\project\expensepilot\ExpensePilotApplication.java
-D:\Vs_Code\Portfolio\java\Spring Boot\ExpensePilot\backend\src\main\java\com\project\expensepilot\model\Expense.java
-D:\Vs_Code\Portfolio\java\Spring Boot\ExpensePilot\backend\src\main\java\com\project\expensepilot\repo\ExpenseRepo.java
-D:\Vs_Code\Portfolio\java\Spring Boot\ExpensePilot\backend\src\main\java\com\project\expensepilot\service\ExpenseService.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/ExpensePilotApplication.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/WebConfig.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/controller/AuthController.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/controller/CustomErrorController.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/controller/ExpenseController.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/controller/HealthController.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/controller/RootController.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/dto/AuthResponseDTO.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/dto/LoginDto.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/dto/RegisterDto.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/dto/UserDto.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/exception/GlobalExceptionHandler.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/model/Expense.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/model/Role.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/model/UserEntity.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/repo/ExpenseRepo.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/repo/RoleRepo.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/repo/UserRepo.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/security/CustomUserDetailsService.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/security/JWTAuthenticationFilter.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/security/JWTGenerator.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/security/JwtAuthEntryPoint.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/security/SecurityConfig.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/security/SecurityConstants.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/service/ExpenseService.java
+/home/runner/work/expense-pilot-backendSecurity/expense-pilot-backendSecurity/src/main/java/com/project/expensepilot/specification/ExpenseSpecification.java
