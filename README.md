@@ -2,6 +2,9 @@
 
 ExpensePilot is a Spring Boot-based backend application for managing personal expenses with user authentication and role-based access control. This project provides RESTful APIs for user registration, login, and expense management, and is designed for extensibility and security.
 
+## Project Website
+[Expense Pilot Dashboard](https://expense-pilot-dashboard.vercel.app/)
+
 ## Table of Contents
 - [Features](#features)
 - [Data Modeling](#data-modeling)
